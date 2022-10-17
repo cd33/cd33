@@ -8,6 +8,9 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/charles-diallo/**
 
+- :moneybag: If you like my work you can leave me a tip at this address **0x0411A12466cd4B1BBF6dD6F18C3aa1bDcF33Bcc1**
+- :heart: Thank you very much !
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/charles-diallo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charles-diallo" height="30" width="40" /></a>
