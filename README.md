@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQEw9k9w56EuWQ/profile-displaybackgroundimage-shrink_350_1400/0/1662218817761?e=1674086400&v=beta&t=O5VO4MbGcy_bnVEQdcMsTlFepS4TbiaaP8BAZMR1Nag)](https://www.linkedin.com/in/charles-diallo/)
+[<img src="/bannerLinkedIn.png" alt="basic">](https://www.linkedin.com/in/charles-diallo/)
 <h1 align="center">Hi 👋, I'm Charles Diallo</h1>
 <h3 align="center">A Blockchain Developer from France</h3>
 
