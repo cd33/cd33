@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cd33&label=Profile%20views&color=0e75b6&style=flat" alt="cd33" /> </p>
 
-- 🔭 I’m currently working on **Ennea**
+- 🔭 I’m currently looking for a **job/mission**
 
 - 📫 How to reach me **https://www.linkedin.com/in/charles-diallo/**
 
